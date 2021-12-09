@@ -1,0 +1,367 @@
+[2016.12.07 08:53:19] Launched version: 10019, alpha: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2016.12.07 08:53:19] Executable dir: D:/Users/sabereh/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2016.12.07 08:53:19] Initial working dir: D:/Users/sabereh/AppData/Roaming/Telegram Desktop/
+[2016.12.07 08:53:19] Working dir: D:/Users/sabereh/AppData/Roaming/Telegram Desktop/
+[2016.12.07 08:53:19] Arguments: "D:\Users\sabereh\AppData\Roaming\Telegram Desktop\Telegram.exe"
+[2016.12.07 08:53:19] Logs started
+[2016.12.07 08:53:19] Connecting local socket to Global\43281ccf656ff4e7938646771e7047a7-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2016.12.07 08:53:19] This is the only instance of Telegram, starting server and app...
+[2016.12.07 08:53:19] Moved logging from 'log_start1.txt' to 'D:/Users/sabereh/AppData/Roaming/Telegram Desktop/log.txt'!
+[2016.12.07 08:53:19] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start2.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start3.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start4.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start5.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start6.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start7.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start8.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Old start log 'log_start9.txt' found, deleted: [TRUE]
+[2016.12.07 08:53:19] Opened 'D:/Users/sabereh/AppData/Roaming/Telegram Desktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2016.12.07 08:53:19] App Info: reading settings...
+[2016.12.07 08:53:19] App Info: reading encrypted settings...
+[2016.12.07 08:53:20] App Info: reading map...
+[2016.12.07 08:53:20] App Info: reading encrypted map...
+[2016.12.07 08:53:21] App Info: reading encrypted user settings...
+[2016.12.07 08:53:21] App Info: encrypted user settings read.
+[2016.12.07 08:53:21] App Info: reading encrypted mtp data...
+[2016.12.07 08:53:21] Map read time: 66
+[2016.12.07 08:53:21] Window Shadow: 1, 1, 1, 1, 1, 2, 2, 4, 6, 9, 12, 16, 21, 25, 29, 33
+[2016.12.07 08:53:21] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 08:53:24] Getting channel difference!
+[2016.12.07 08:53:24] Getting channel difference for 8100
+[2016.12.07 08:53:39] Getting channel difference!
+[2016.12.07 08:53:39] Getting channel difference for 760
+[2016.12.07 08:53:54] Getting channel difference!
+[2016.12.07 08:53:54] Getting channel difference for 8100
+[2016.12.07 08:57:46] HTTP Error: connection refused - Connection refused
+[2016.12.07 08:57:46] Strange Http Error: status 5
+[2016.12.07 08:57:51] HTTP Error: connection refused - Connection refused
+[2016.12.07 08:57:51] Strange Http Error: status 5
+[2016.12.07 09:08:34] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:08:34] Strange Http Error: status 5
+[2016.12.07 09:09:21] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:09:25] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:09:33] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:09:41] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:09:49] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:09:57] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:10:05] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:10:13] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:10:21] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:10:29] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:10:37] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:11:41] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:11:45] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:11:53] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:12:01] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:12:09] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:12:17] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:12:25] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:06] Getting channel difference!
+[2016.12.07 09:34:06] Getting channel difference for 16787
+[2016.12.07 09:34:08] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:08] Strange Http Error: status 5
+[2016.12.07 09:34:08] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:08] Strange Http Error: status 5
+[2016.12.07 09:34:10] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:10] Strange Http Error: status 5
+[2016.12.07 09:34:18] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:18] Strange Http Error: status 5
+[2016.12.07 09:34:18] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:34:18] Strange Http Error: status 5
+[2016.12.07 09:34:38] Getting channel difference!
+[2016.12.07 09:34:38] Getting channel difference for 16787
+[2016.12.07 09:35:08] Getting channel difference!
+[2016.12.07 09:35:08] Getting channel difference for 16787
+[2016.12.07 09:35:38] Getting channel difference!
+[2016.12.07 09:35:38] Getting channel difference for 16787
+[2016.12.07 09:36:08] Getting channel difference!
+[2016.12.07 09:36:08] Getting channel difference for 16787
+[2016.12.07 09:36:38] Getting channel difference!
+[2016.12.07 09:36:38] Getting channel difference for 16787
+[2016.12.07 09:37:09] Getting channel difference!
+[2016.12.07 09:37:09] Getting channel difference for 16787
+[2016.12.07 09:37:39] Getting channel difference!
+[2016.12.07 09:37:39] Getting channel difference for 16787
+[2016.12.07 09:38:09] Getting channel difference!
+[2016.12.07 09:38:09] Getting channel difference for 16787
+[2016.12.07 09:38:39] Getting channel difference!
+[2016.12.07 09:38:39] Getting channel difference for 16787
+[2016.12.07 09:39:09] Getting channel difference!
+[2016.12.07 09:39:09] Getting channel difference for 16787
+[2016.12.07 09:39:40] Getting channel difference!
+[2016.12.07 09:39:40] Getting channel difference for 16787
+[2016.12.07 09:40:10] Getting channel difference!
+[2016.12.07 09:40:10] Getting channel difference for 16787
+[2016.12.07 09:40:40] Getting channel difference!
+[2016.12.07 09:40:40] Getting channel difference for 16787
+[2016.12.07 09:41:10] Getting channel difference!
+[2016.12.07 09:41:10] Getting channel difference for 16787
+[2016.12.07 09:41:41] Getting channel difference!
+[2016.12.07 09:41:41] Getting channel difference for 16787
+[2016.12.07 09:42:11] Getting channel difference!
+[2016.12.07 09:42:11] Getting channel difference for 16787
+[2016.12.07 09:42:41] Getting channel difference!
+[2016.12.07 09:42:41] Getting channel difference for 16787
+[2016.12.07 09:43:11] Getting channel difference!
+[2016.12.07 09:43:11] Getting channel difference for 16787
+[2016.12.07 09:43:42] Getting channel difference!
+[2016.12.07 09:43:42] Getting channel difference for 16787
+[2016.12.07 09:44:12] Getting channel difference!
+[2016.12.07 09:44:12] Getting channel difference for 16787
+[2016.12.07 09:44:42] Getting channel difference!
+[2016.12.07 09:44:42] Getting channel difference for 16787
+[2016.12.07 09:45:12] Getting channel difference!
+[2016.12.07 09:45:12] Getting channel difference for 16787
+[2016.12.07 09:45:43] Getting channel difference!
+[2016.12.07 09:45:43] Getting channel difference for 16787
+[2016.12.07 09:46:13] Getting channel difference!
+[2016.12.07 09:46:13] Getting channel difference for 16787
+[2016.12.07 09:46:18] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:46:18] Strange Http Error: status 5
+[2016.12.07 09:46:18] HTTP Error: connection refused - Connection refused
+[2016.12.07 09:46:18] Strange Http Error: status 5
+[2016.12.07 09:46:43] Getting channel difference!
+[2016.12.07 09:46:43] Getting channel difference for 16787
+[2016.12.07 09:47:13] Getting channel difference!
+[2016.12.07 09:47:13] Getting channel difference for 16787
+[2016.12.07 09:47:43] Getting channel difference!
+[2016.12.07 09:47:43] Getting channel difference for 16787
+[2016.12.07 09:48:14] Getting channel difference!
+[2016.12.07 09:48:14] Getting channel difference for 16787
+[2016.12.07 09:48:44] Getting channel difference!
+[2016.12.07 09:48:44] Getting channel difference for 16787
+[2016.12.07 09:49:14] Getting channel difference!
+[2016.12.07 09:49:14] Getting channel difference for 16787
+[2016.12.07 09:49:44] Getting channel difference!
+[2016.12.07 09:49:44] Getting channel difference for 16787
+[2016.12.07 09:50:14] Getting channel difference!
+[2016.12.07 09:50:14] Getting channel difference for 16787
+[2016.12.07 09:50:45] Getting channel difference!
+[2016.12.07 09:50:45] Getting channel difference for 16787
+[2016.12.07 09:51:15] Getting channel difference!
+[2016.12.07 09:51:15] Getting channel difference for 16787
+[2016.12.07 09:51:45] Getting channel difference!
+[2016.12.07 09:51:45] Getting channel difference for 16787
+[2016.12.07 09:52:15] Getting channel difference!
+[2016.12.07 09:52:15] Getting channel difference for 16787
+[2016.12.07 09:52:46] Getting channel difference!
+[2016.12.07 09:52:46] Getting channel difference for 16787
+[2016.12.07 09:53:16] Getting channel difference!
+[2016.12.07 09:53:16] Getting channel difference for 16787
+[2016.12.07 09:53:46] Getting channel difference!
+[2016.12.07 09:53:46] Getting channel difference for 16787
+[2016.12.07 09:54:16] Getting channel difference!
+[2016.12.07 09:54:16] Getting channel difference for 16787
+[2016.12.07 09:54:46] Getting channel difference!
+[2016.12.07 09:54:46] Getting channel difference for 16787
+[2016.12.07 09:55:17] Getting channel difference!
+[2016.12.07 09:55:17] Getting channel difference for 16787
+[2016.12.07 09:55:47] Getting channel difference!
+[2016.12.07 09:55:47] Getting channel difference for 16787
+[2016.12.07 09:56:17] Getting channel difference!
+[2016.12.07 09:56:17] Getting channel difference for 16787
+[2016.12.07 09:56:47] Getting channel difference!
+[2016.12.07 09:56:47] Getting channel difference for 16787
+[2016.12.07 09:57:17] Getting channel difference!
+[2016.12.07 09:57:17] Getting channel difference for 16787
+[2016.12.07 09:57:48] Getting channel difference!
+[2016.12.07 09:57:48] Getting channel difference for 16787
+[2016.12.07 09:58:18] Getting channel difference!
+[2016.12.07 09:58:18] Getting channel difference for 16787
+[2016.12.07 09:58:48] Getting channel difference!
+[2016.12.07 09:58:48] Getting channel difference for 16787
+[2016.12.07 09:59:18] Getting channel difference!
+[2016.12.07 09:59:18] Getting channel difference for 16787
+[2016.12.07 09:59:48] Getting channel difference!
+[2016.12.07 09:59:48] Getting channel difference for 16787
+[2016.12.07 10:00:19] Getting channel difference!
+[2016.12.07 10:00:19] Getting channel difference for 16787
+[2016.12.07 10:00:49] Getting channel difference!
+[2016.12.07 10:00:49] Getting channel difference for 16787
+[2016.12.07 10:01:19] Getting channel difference!
+[2016.12.07 10:01:19] Getting channel difference for 16787
+[2016.12.07 10:01:35] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:01:35] Strange Http Error: status 5
+[2016.12.07 10:01:41] App Info: writing encrypted user settings...
+[2016.12.07 10:01:49] Getting channel difference!
+[2016.12.07 10:01:49] Getting channel difference for 16787
+[2016.12.07 10:02:47] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:02:47] Strange Http Error: status 5
+[2016.12.07 10:02:47] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:02:47] Strange Http Error: status 5
+[2016.12.07 10:02:52] Skipping message, because it is already in blocks!
+[2016.12.07 10:20:55] App Error: could not get current version (update check): 1
+[2016.12.07 10:20:56] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:21:00] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:24:00] HTTP Error: connection refused - Connection refused
+[2016.12.07 10:24:00] Strange Http Error: status 5
+[2016.12.07 10:44:08] Getting channel difference!
+[2016.12.07 10:44:08] Getting channel difference for 514
+[2016.12.07 10:44:41] Getting channel difference!
+[2016.12.07 10:44:41] Getting channel difference for 514
+[2016.12.07 11:18:03] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:18:03] Strange Http Error: status 5
+[2016.12.07 11:18:03] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:18:03] Strange Http Error: status 5
+[2016.12.07 11:18:42] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:18:42] Strange Http Error: status 5
+[2016.12.07 11:18:42] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:18:42] Strange Http Error: status 5
+[2016.12.07 11:23:17] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:23:21] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:23:21] Strange Http Error: status 5
+[2016.12.07 11:28:34] HTTP Error: connection refused - Connection refused
+[2016.12.07 11:28:34] Strange Http Error: status 5
+[2016.12.07 11:31:01] API Error: received stickers hash 2084182757 while counted hash is 802152729
+[2016.12.07 11:31:08] App Info: writing encrypted user settings...
+[2016.12.07 11:31:50] App Info: writing encrypted user settings...
+[2016.12.07 11:32:08] App Info: writing encrypted user settings...
+[2016.12.07 12:05:10] Getting difference! no updates timer: 1, remains: 0
+[2016.12.07 12:05:10] Getting difference for 764218, 1481098929
+[2016.12.07 12:05:12] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 12:05:13] HTTP Error: connection refused - Connection refused
+[2016.12.07 12:05:13] Strange Http Error: status 5
+[2016.12.07 12:05:15] HTTP Error: connection refused - Connection refused
+[2016.12.07 12:05:15] Strange Http Error: status 5
+[2016.12.07 12:05:54] HTTP Error: connection refused - Connection refused
+[2016.12.07 12:05:54] Strange Http Error: status 5
+[2016.12.07 12:05:55] App Info: writing encrypted user settings...
+[2016.12.07 12:06:09] App Info: writing encrypted user settings...
+[2016.12.07 12:06:21] Skipping message, because it is already in blocks!
+[2016.12.07 12:12:35] App Info: writing encrypted user settings...
+[2016.12.07 12:12:40] Skipping message, because it is already in blocks!
+[2016.12.07 12:20:48] Getting difference! no updates timer: 1, remains: 0
+[2016.12.07 12:20:48] Getting difference for 764320, 1481100160
+[2016.12.07 12:20:49] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 12:20:51] HTTP Error: connection refused - Connection refused
+[2016.12.07 12:20:51] Strange Http Error: status 5
+[2016.12.07 15:30:18] Getting difference! no updates timer: 1, remains: 0
+[2016.12.07 15:30:18] Getting difference for 764329, 1481100652
+[2016.12.07 15:30:22] TCP Error: network - Host unreachable
+[2016.12.07 15:30:23] TCP Error: network - Host unreachable
+[2016.12.07 15:30:25] TCP Error: network - Host unreachable
+[2016.12.07 15:30:27] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:27] TCP Error: network - Host unreachable
+[2016.12.07 15:30:29] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:29] TCP Error: network - Host unreachable
+[2016.12.07 15:30:31] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:32] TCP Error: network - Host unreachable
+[2016.12.07 15:30:33] Getting channel difference!
+[2016.12.07 15:30:33] Getting channel difference for 16788
+[2016.12.07 15:30:34] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:35] TCP Error: network - Host unreachable
+[2016.12.07 15:30:36] TCP Error: network - Host unreachable
+[2016.12.07 15:30:36] TCP Error: network - Host unreachable
+[2016.12.07 15:30:38] TCP Error: network - Host unreachable
+[2016.12.07 15:30:38] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:40] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:40] TCP Error: network - Host unreachable
+[2016.12.07 15:30:42] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:42] TCP Error: network - Host unreachable
+[2016.12.07 15:30:42] TCP Error: network - Host unreachable
+[2016.12.07 15:30:44] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:44] TCP Error: network - Host unreachable
+[2016.12.07 15:30:44] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:46] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:47] TCP Error: network - Host unreachable
+[2016.12.07 15:30:49] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:51] TCP Error: network - Host unreachable
+[2016.12.07 15:30:52] TCP Error: network - Host unreachable
+[2016.12.07 15:30:53] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:54] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:30:57] TCP Error: network - Host unreachable
+[2016.12.07 15:30:59] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:09] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:09] Strange Http Error: status 5
+[2016.12.07 15:31:11] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 15:31:12] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:12] Strange Http Error: status 5
+[2016.12.07 15:31:13] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:13] Strange Http Error: status 5
+[2016.12.07 15:31:13] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:13] Strange Http Error: status 5
+[2016.12.07 15:31:41] Getting channel difference!
+[2016.12.07 15:31:41] Getting channel difference for 16790
+[2016.12.07 15:31:55] Could not send ping for MTPPingSendAfter seconds, restarting...
+[2016.12.07 15:31:57] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:31:57] Strange Http Error: status 5
+[2016.12.07 15:32:11] Getting channel difference!
+[2016.12.07 15:32:11] Getting channel difference for 16790
+[2016.12.07 15:32:20] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:32:20] Strange Http Error: status 5
+[2016.12.07 15:32:20] HTTP Error: connection refused - Connection refused
+[2016.12.07 15:32:20] Strange Http Error: status 5
+[2016.12.07 15:32:41] Getting channel difference!
+[2016.12.07 15:32:41] Getting channel difference for 16790
+[2016.12.07 15:33:12] Getting channel difference!
+[2016.12.07 15:33:12] Getting channel difference for 16790
+[2016.12.07 15:33:42] Getting channel difference!
+[2016.12.07 15:33:42] Getting channel difference for 16790
+[2016.12.07 15:34:13] Getting channel difference!
+[2016.12.07 15:34:13] Getting channel difference for 16790
+[2016.12.07 15:34:45] Getting channel difference!
+[2016.12.07 15:34:45] Getting channel difference for 16790
+[2016.12.07 15:35:17] Getting channel difference!
+[2016.12.07 15:35:17] Getting channel difference for 16790
+[2016.12.07 15:35:47] Getting channel difference!
+[2016.12.07 15:35:47] Getting channel difference for 16790
+[2016.12.07 15:36:17] Getting channel difference!
+[2016.12.07 15:36:17] Getting channel difference for 16790
+[2016.12.07 15:36:47] Getting channel difference!
+[2016.12.07 15:36:47] Getting channel difference for 16790
+[2016.12.07 15:37:17] Getting channel difference!
+[2016.12.07 15:37:17] Getting channel difference for 16790
+[2016.12.07 15:37:48] Getting channel difference!
+[2016.12.07 15:37:48] Getting channel difference for 16790
+[2016.12.07 15:38:18] Getting channel difference!
+[2016.12.07 15:38:18] Getting channel difference for 16790
+[2016.12.07 15:38:48] Getting channel difference!
+[2016.12.07 15:38:48] Getting channel difference for 16790
+[2016.12.07 16:53:12] Getting difference! no updates timer: 1, remains: 60000
+[2016.12.07 16:53:12] Getting difference for 764359, 1481114396
+[2016.12.07 16:56:26] Getting channel difference!
+[2016.12.07 16:56:26] Getting channel difference for 8102
+[2016.12.07 16:56:57] Getting channel difference!
+[2016.12.07 16:56:57] Getting channel difference for 8102
+[2016.12.07 17:24:53] Getting difference! no updates timer: 1, remains: 60000
+[2016.12.07 17:24:53] Getting difference for 764360, 1481118603
+[2016.12.07 17:30:53] Skipping message, because it is already in blocks!
+[2016.12.07 17:31:03] Skipping message, because it is already in blocks!
+[2016.12.07 19:00:51] Skipping message, because it is already in blocks!
+[2016.12.07 19:01:11] App Info: writing encrypted user settings...
+[2016.12.07 19:01:23] App Info: writing encrypted user settings...
+[2016.12.07 19:01:45] Skipping message, because it is already in blocks!
+[2016.12.07 19:03:34] Skipping message, because it is already in blocks!
+[2016.12.07 19:18:11] Skipping message, because it is already in blocks!
+[2016.12.07 19:20:08] Skipping message, because it is already in blocks!
+[2016.12.07 19:22:21] App Info: writing encrypted user settings...
+[2016.12.07 19:22:36] Skipping message, because it is already in blocks!
+[2016.12.07 19:24:24] Skipping message, because it is already in blocks!
+[2016.12.07 19:25:18] API Error: received stickers hash 2084182757 while counted hash is 802152729
+[2016.12.07 19:28:34] Skipping message, because it is already in blocks!
+[2016.12.07 19:43:10] HTTP Error: remote host closed - Connection closed
+[2016.12.07 19:43:10] Strange Http Error: status 5
+[2016.12.07 19:43:40] App Info: writing encrypted user settings...
+[2016.12.07 19:45:10] Skipping message, because it is already in blocks!
+[2016.12.07 19:46:15] Skipping message, because it is already in blocks!
+[2016.12.07 19:46:24] Skipping message, because it is already in blocks!
+[2016.12.07 20:18:57] Getting difference! no updates timer: 1, remains: 0
+[2016.12.07 20:18:57] Getting difference for 764657, 1481128879
+[2016.12.07 20:18:59] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 20:26:57] Getting difference! no updates timer: 1, remains: 0
+[2016.12.07 20:26:57] Getting difference for 764683, 1481129339
+[2016.12.07 20:26:58] HTTP Error: remote host closed - Connection closed
+[2016.12.07 20:26:59] Getting difference! no updates timer: 0, remains: -1
+[2016.12.07 20:33:24] Skipping message, because it is already in blocks!
+[2016.12.07 20:42:23] Skipping message, because it is already in blocks!
+[2016.12.07 20:47:15] App Info: writing encrypted user settings...
+[2016.12.07 20:47:42] App Info: writing encrypted user settings...
+[2016.12.07 20:47:44] Skipping message, because it is already in blocks!
+[2016.12.07 20:47:49] App Info: writing encrypted user settings...
+[2016.12.07 20:47:56] Skipping message, because it is already in blocks!
+[2016.12.07 20:48:00] Skipping message, because it is already in blocks!
+[2016.12.07 20:56:47] App Info: writing encrypted user settings...
+[2016.12.07 20:57:02] Skipping message, because it is already in blocks!
+[2016.12.07 21:02:55] API Error: received stickers hash 2084182757 while counted hash is 802152729
+[2016.12.07 21:02:59] App Info: writing encrypted user settings...
